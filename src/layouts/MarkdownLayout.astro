@@ -1,27 +1,12 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import Card from '../components/Card.astro';
+import Layout from './Layout.astro';
+const { frontmatter, headings } = Astro.props;
 ---
 
-<Layout title="TA4 retreat 2024">
-
+<Layout title={frontmatter.title}>
 <main>
-<h1>Welcome to <span class="text-gradient">FAIRagro TA4 Retreat 2024</span></h1>
-<h2>25 - 26 November 2024 @ Thünen Institute Braunschweig</h2>
-
-<div style="margin-top:50px;">
-
-<ul role="list" class="link-card-grid">
-
-<Card title="Registration" href="https://survey.fairagro.net/index.php/796883?lang=en" body="Register!" />
-<Card title="Programme" href="retreat_programme" body="Check out the Programme" />
-<Card title="Flyer" href="./TA4_Retreat2024_Flyer.pdf" body="Have a look at the flyer for travel instructions, hotel choice, etc." />
-
-</ul>
-</div>
-
+<slot />
 </main>
-
 </Layout>
 
 <style>
