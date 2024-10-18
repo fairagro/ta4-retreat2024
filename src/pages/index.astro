@@ -1,10 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+import * as page1 from './retreat_program_draft.md';
+
 ---
 
 <Layout title="Welcome to Astro.">
 	<main>
+    <p>{page1.compiledContent}</p>
 		<svg
 			class="astro-a"
 			width="495"
