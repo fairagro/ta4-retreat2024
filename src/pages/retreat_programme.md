@@ -11,14 +11,14 @@ layout: ../layouts/MarkdownLayout.astro
 13:30 - 14:20 **Reporting M4.1 (I)**
 
  + document sharing, ticket-system (20 min)
- + discussion (30min)
+ + discussion (30 min)
   
 -- break --  **with photo shooting**
 
 14:35 - 15:25 **Reporting M4.1 (II)**
 
- + technical aspekts of the website-relaunch, AAI (30min)
- + dissussion (20min)
+ + technical aspekts of the website-relaunch, AAI (30 min)
+ + dissussion (20 min)
 
 -- break -- 
 
@@ -41,22 +41,23 @@ Topics might for example include:
 
   + M4.3: inventory (15 min)
     + diskussion (15 min)
-  + M4.2: advanced middleware (30min)
-    + diskussion (15min)
-  + M4.4: live demo SciWIn (20min)
-    + diskussion (15min)
-    
+  + M4.2: advanced middleware (30 min)
+    + diskussion (15 min)
+  + M4.4: live demo SciWIn (20 min)
+    + diskussion (15 min)
+
+-- break --
+
 11:00 - 12:50 **Interactive session**
 
-+ TA1: use-case presentation (if available, 15 min)
-  + which use-cases can use which TA4 services?
-+ M4.4: input talk: overall architecture & user stories (3-5min)
-+ M4.2: input talk: data quality (3-5min)
++ TA1: use-case presentation (15 min)
++ TA3: input talk about data quality (15 min)
 
-+ interactive discussions & brainstorming. Topics might for example include:
-  + the big picture & overall architecture
-  + data quality
-  + topics that that have emerged in previous sessions
++ 11:40 - 12:25: **Breakout session I: Use Cases**
+
++ 11:40 - 12:25: **Breakout session II: Data Quality**
+
++ Presentation of breakout session results (20 min)
 
 13:00 **Lunch at the Thünen Cantina**
 
