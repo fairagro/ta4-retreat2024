@@ -4,6 +4,8 @@ layout: ../layouts/MarkdownLayout.astro
 ---
 # Preliminary Program for the T4 Retreat 2024
 
+*Check out the [pad for latest info](https://cryptpad.digitalcourage.de/code/#/2/code/view/9NnRu7aSr3daP37iZa9qwMEzB6-DS-Gwf9KSmZJbGDg/present/)*
+
 ## Monday, Nov 25th
 
 13:00 - 13:30 **Welcome**
